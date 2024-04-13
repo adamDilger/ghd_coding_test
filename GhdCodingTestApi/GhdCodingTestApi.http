@@ -1,0 +1,6 @@
+@GhdCodingTestApi_HostAddress = http://localhost:5069
+
+GET {{GhdCodingTestApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
